@@ -1,7 +1,25 @@
-## Hi besties ✨
-![myImage](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkYnF3NnN0YXdxeGFhamE3M3hrc3N1NTQzODk5cWR1c2N6MmNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHcqBMCzGrwOSdMU38/giphy.gif)
+<div align="center">
+  <h1> Hi besties ✨ <h1>
 
-&nbsp;<div align="center">
+<br />
+<img align="right" height="300px" width="460px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkYnF3NnN0YXdxeGFhamE3M3hrc3N1NTQzODk5cWR1c2N6MmNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHcqBMCzGrwOSdMU38/giphy.gif" />
+<p align="center">
+  <h2>Soy Omar Castro Flores </h2>
+</p>
+ 
+-  Tengo 23 años y soy un estudiante de Biología
+
+-  Soy de México, Ciudad de México
+
+-  Actualmente terminando la tesis de licenciatura
+
+-  Amo la histología y las neurociencias 🧠
+
+<p align="center">
+  
+## Aquí mi cuenta de ✨Spotify✨
+
+&nbsp;<div align="center" >
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omarcast132)
 </div>
 
