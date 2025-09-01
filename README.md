@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi besties ✨
+![myImage](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkYnF3NnN0YXdxeGFhamE3M3hrc3N1NTQzODk5cWR1c2N6MmNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHcqBMCzGrwOSdMU38/giphy.gif)
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omarcast132)
+</div>
+
 
 <!--
 **Omar1432/Omar1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
